@@ -1,0 +1,1 @@
+echo url="https://www.duckdns.org/update?domains=dadalab-server&token=d6eb6a9a-d626-42fd-86cd-f1297808bf72&txt=portainer&ip=" | curl -k -o ~/duckdns/duck.log -K -
