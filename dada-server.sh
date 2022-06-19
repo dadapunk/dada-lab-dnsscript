@@ -15,7 +15,8 @@ cat duck.log
 echo should i continue with the installation?
 read
 
-curl -s https://raw.githubusercontent.com/PGBlitz/Install/v8.5/install.sh | sudo -H sh
+# curl -s https://raw.githubusercontent.com/PGBlitz/Install/v8.5/install.sh | sudo -H sh
+curl -s https://raw.githubusercontent.com/PGBlitz/Install/v90/install.sh | sudo -H sh
 
 
 
